@@ -74,5 +74,10 @@ ol > li{
   height: 40px;
 }
 
+#btn:hover{
+  background-color: #31303f;
+  cursor: pointer;
+}
+
 a:link { color: white; } /* unvisited links */
 a:visited { color: white; } /* visited links */
